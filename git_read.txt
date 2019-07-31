@@ -1,0 +1,31 @@
+--> create new branch
+	git checkout -b <branch>
+	
+--> git log  --repo history    
+
+--> git --author=bob  
+
+--> git --pretty=oneline  
+
+--> git --graph  
+
+--> git --oneline  
+
+--> git --decorate  
+
+--> git --all  
+
+--> git --name-status  
+
+--> git --help
+
+--> git --repo history
+
+--> git merge --no-ff dev
+
+--> git pull (pull the data into individual branches)
+
+--> git reset --hard HEAD^
+
+--> git branch -D feature/BI-5996_Create_Validation_Process_for_Claims_File
+
